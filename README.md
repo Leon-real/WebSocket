@@ -1,6 +1,3 @@
-# What is WebSocket
-what is websocket and simple test of it
-
 # 웹소켓(WebSocket)이란 ?
 
 Transport protocol의 일종으로 쉽게 이야기하면 웹버전의 TCP 또는 Socket이라고 이해하면 된다.
