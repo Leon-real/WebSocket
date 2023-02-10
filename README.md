@@ -1,4 +1,4 @@
-# WebSocket
+# What is WebSocket
 what is websocket and simple test of it
 
 # 웹소켓(WebSocket)이란 ?
